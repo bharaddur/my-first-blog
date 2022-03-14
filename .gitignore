@@ -5,11 +5,14 @@ __pycache__
 
 # Env
 .env
-myvenv/
+myenv/
 venv/
 
 # Database
 db.sqlite3
+
+# Backup
+datadump.json
 
 # Static folder at project root
 /static/
